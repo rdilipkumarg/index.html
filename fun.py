@@ -1,5 +1,3 @@
-from IPython.display import HTML
-
 HTML('''
 <!DOCTYPE html>
 <html lang="en">
